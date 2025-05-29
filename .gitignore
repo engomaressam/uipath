@@ -1,0 +1,69 @@
+# UiPath specific
+*.xaml.cs
+*.xaml.vb
+*.xaml.json
+*.xaml.ignore
+*.xaml.presentation
+*.xaml.runtimeconfig.json
+*.xaml.runtimeconfig.dev.json
+*.xaml.userprefs
+*.xaml.user
+*.xaml.resharper
+*.xaml.DotSettings.user
+
+# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+build/
+bld/
+[Bb]in/
+[Oo]bj/
+[Oo]ut/
+msbuild.log
+msbuild.err
+msbuild.wrn
+
+# User-specific files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# User-specific files (MonoDevelop/Xamarin Studio)
+*.userprefs
+
+# Build results
+*.cache
+*.log
+*.nupkg
+*.ncrunchsolution
+*.ncrunchproject
+
+# Visual Studio 2015/2017 cache/options directory
+.vs/
+
+# MSTest test Results
+[Tt]est[Rr]esult*/
+[Bb]uild[Ll]og.*
+
+# NUNIT
+*.VisualState.xml
+TestResult.xml
+
+# ReSharper is a .NET coding add-in
+_ReSharper*/
+*.[Rr]e[Ss]harper
+*.DotSettings.user
+
+# Local development settings
+*.local.settings.json
+
+# Backup folder for Package Reference Convert tool in Visual Studio 2017
+MigrationBackup/
+
+# Ionide (cross platform F# VS Code tools) working folder
+.ionide/
